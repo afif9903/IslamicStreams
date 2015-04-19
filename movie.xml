@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<channels>
+    <channels_info> <!-- this is opitonal -->
+      <title>ALQURAN RECITATION</title> <!-- if channels_info, a title is required, other elements are optional -->
+      <genre>Religious</genre>
+      <description>Himpunan bacaan AlQuran oleh Mishary Bin Rashid Alafasy</description>
+      <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+      <fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
+      <date>15.04.2015</date>
+      <credits>Abu Ammar</credits>
+    </channels_info>
+    
+    <channel><!-- 30 Juz Recitation -->
+      <name>30 Juz Recitation</name>
+      <info>AlQuran recitation from AlFatihah until An-nas</info>
+      <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+      <fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
+        <items>
+            <item>
+                <title>Sheikh Mishary Rashid Alafasy</title>
+                <link>plugin://plugin.video.youtube/play/?playlist_id=PLeDyFNw0r3RqCioW-2w0ZxhM5ekDR6uZZ</link>
+                <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+            </item>
+            
+            <item>
+                <title>Sheikh Sa'ad Said Al-Ghamdi</title>
+                <link>plugin://plugin.video.youtube/play/?playlist_id=PLeDyFNw0r3RrpFrir0KYeVf3f9BoVBGsd</link>
+                <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>                
+            </item>
+        </items>
+    </channel>
+</channels>
