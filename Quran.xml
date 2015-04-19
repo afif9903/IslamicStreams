@@ -121,6 +121,34 @@
         </subchannel>     
     </channel>
     
+    <channel><!-- Tafseer Quran -->
+      <name>Quran Channel and Playlist</name>
+      <info>Tafseer Quran</info>
+      <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+      <fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
+      
+        <subchannel><!-- Autoplay all surah -->
+            <name>FreeQuranEducation</name>
+            <thumbnail>http://television.png</thumbnail>
+            <fanart>http://fanart.jpg</fanart>
+            <subitems>
+                <subitem>
+                <title>FreeQuranEducation</title>
+                <link>plugin://plugin.video.youtube/user/NAKcollection/</link>
+                <thumbnail>http://thumb.png </thumbnail>
+                </subitem>
+
+                <subitem>
+                <title>Reciter 2</title>
+                <link>plugin://plugin.video.youtube/channel/UCV7aA2UxRf3SHyxRoeYb9TQ/</link>
+                <thumbnail>http://thumb.png</thumbnail>
+                </subitem>
+            </subitems>	
+        </subchannel>  
+    </channel>
+    
+    
+    
     <channel><!-- Al-Mathurat -->
       <name>Al-Mathurat</name>
       <info>Al-Mathurat is actually a compilation of few verses from Quran & prayer by Rasulullah SAW which was compiled by Imam As-Shahid Hassan Al-Banna for daily reading. You can read it in wazifah al-qubra (long) or wazifah al-suqra (short - first 8 verses including surah Al-Fatihah until surah Al-Baqarah:286) in the morning and evening. Please try to understand the meaning of each verse before making it as your daily reading.</info>
