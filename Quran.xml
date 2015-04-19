@@ -121,13 +121,13 @@
         </subchannel>     
     </channel>
     
-    <channel><!-- Selected Surah -->
-      <name>AlMatsurat</name>
-      <info>Selected Surah</info>
+    <channel><!-- Al-Mathurat -->
+      <name>Al-Mathurat</name>
+      <info>Al-Mathurat is actually a compilation of few verses from Quran & prayer by Rasulullah SAW which was compiled by Imam As-Shahid Hassan Al-Banna for daily reading. You can read it in wazifah al-qubra (long) or wazifah al-suqra (short - first 8 verses including surah Al-Fatihah until surah Al-Baqarah:286) in the morning and evening. Please try to understand the meaning of each verse before making it as your daily reading.</info>
       <thumbnail>https://marketingbuku2alitishom.files.wordpress.com/2010/01/al-matsurat-kecil-03.jpg</thumbnail>
       <fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
         <item>
-            <title>AlMatsurat Sughra Pagi</title>
+            <title>AlMatsurat Sughra (Morning time)</title>
             <link>plugin://plugin.video.youtube/play/?video_id=YzG6fwHV0TE</link>
             <thumbnail>https://marketingbuku2alitishom.files.wordpress.com/2010/01/al-matsurat-kecil-03.jpg</thumbnail>
         </item> 
