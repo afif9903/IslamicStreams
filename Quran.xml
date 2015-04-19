@@ -31,15 +31,16 @@
         </items>
     </channel>
 
-    <channel>
+    <channel><!-- Juz 30 only -->
       <name>Juz 30</name>
       <info>AlQuran recitation from An-Naba until An-nas</info>
       <thumbnail>http://television.png</thumbnail>
       <fanart>http://fanart.jpg</fanart>
-    <subchannel>
-        <name>One Juz</name>
-        <thumbnail>http://television.png</thumbnail>
-        <fanart>http://fanart.jpg</fanart>
+      
+        <subchannel><!-- Juz 30 only -->
+            <name>One Juz</name>
+            <thumbnail>http://television.png</thumbnail>
+            <fanart>http://fanart.jpg</fanart>
             <subitems>
                 <subitem>
                 <title>Reciter 1</title>
@@ -53,8 +54,9 @@
                 <thumbnail>http://thumb.png</thumbnail>
                 </subitem>
             </subitems>	
-    </subchannel>  
-    <subchannel>
+        </subchannel>  
+        
+        <subchannel><!-- Surah by surah -->
         <name>Surah by surah</name>
         <thumbnail>http://television.png</thumbnail>
         <fanart>http://fanart.jpg</fanart>
@@ -71,17 +73,16 @@
                 <thumbnail>http://thumb.png</thumbnail>
                 </subitem>
             </subitems>	
-    </subchannel>     
+        </subchannel>     
     </channel> 
-    
 
-    
-    <items>
-        <item>
-        <title>FILM 4</title>
-        <link>mms://some/place</link>
-        <thumbnail>http://thumb.png </thumbnail>
-        </item>
+      <info>Selected Surah</info>
+      <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+      <fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
+      
+        <subchannel><!-- Autoplay all surah -->
+            <name>One Juz</name>
+            <thumbnail>http://television.png</thumbnail>
 
         <item>
         <title>CHANNEL 4</title>
