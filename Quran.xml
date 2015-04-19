@@ -34,8 +34,8 @@
     <channel><!-- Juz 30 only -->
       <name>Juz 30</name>
       <info>AlQuran recitation from An-Naba until An-nas</info>
-      <thumbnail>http://television.png</thumbnail>
-      <fanart>http://fanart.jpg</fanart>
+      <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>
+      <fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
       
         <subchannel><!-- Juz 30 only -->
             <name>One Juz</name>
@@ -43,14 +43,14 @@
             <fanart>http://fanart.jpg</fanart>
             <subitems>
                 <subitem>
-                <title>Reciter 1</title>
-                <link>mms://some/place</link>
+                <title>Sheikh Mishary Rashid Alafasy</title>
+                <link>plugin://plugin.video.youtube/play/?video_id=v_eQ-HHbg3o</link>
                 <thumbnail>http://thumb.png </thumbnail>
                 </subitem>
 
                 <subitem>
-                <title>Reciter 2</title>
-                <link>http://some/place/channel_4.mp4</link>
+                <title>Sheikh Sa'ad Said Al-Ghamdi</title>
+                <link>plugin://plugin.video.youtube/play/?video_id=5U5eXyOaWM4</link>
                 <thumbnail>http://thumb.png</thumbnail>
                 </subitem>
             </subitems>	
@@ -119,7 +119,19 @@
                 </subitem>
             </subitems>	
         </subchannel>     
-    </channel>     
+    </channel>
+    
+    <channel><!-- Selected Surah -->
+      <name>AlMatsurat</name>
+      <info>Selected Surah</info>
+      <thumbnail>https://marketingbuku2alitishom.files.wordpress.com/2010/01/al-matsurat-kecil-03.jpg</thumbnail>
+      <fanart>http://th06.deviantart.net/fs70/f/2010/184/7/e/reading_Quran_al_Karim_by_islamicwallpers.jpg</fanart>
+        <item>
+            <title>AlMatsurat Sughra Pagi</title>
+            <link>plugin://plugin.video.youtube/play/?video_id=YzG6fwHV0TE</link>
+            <thumbnail>https://marketingbuku2alitishom.files.wordpress.com/2010/01/al-matsurat-kecil-03.jpg</thumbnail>
+        </item> 
+    </channel>         
 
 
 </channels>
