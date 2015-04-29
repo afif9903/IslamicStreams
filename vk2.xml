@@ -28,6 +28,24 @@
                 <link>plugin://plugin.video.youtube/play/?playlist_id=PLzQgy4ggDiJjrYECws3S44wTNZqbWdYoR</link>
                 <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>                
             </item>
+            
+             <item>
+                <title>Anak Mandiri - Aku Berani Sendiri</title>
+                <link>plugin://plugin.video.youtube/play/?playlist_id=PLSh6rlby_RvOyTFzlJE3vPwrUGW7FHDmC</link>
+                <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>                
+            </item>
+            
+             <item>
+                <title>Kisah Nabi dan Rasul Alllah SWT</title>
+                <link>plugin://plugin.video.youtube/play/?playlist_id=PLzQgy4ggDiJi4p-SdPHkNcFtciYImzK-S</link>
+                <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>                
+            </item>
+            
+             <item>
+                <title>Kartun Anak Indonesia</title>
+                <link>plugin://plugin.video.youtube/play/?playlist_id=PLzQgy4ggDiJjfpB4_5nE59yCqgaJwWkid</link>
+                <thumbnail>http://www.islamicdesktop.net/download/Islamic_Wallpaper_Quran_004-1366x768.jpg</thumbnail>                
+            </item>
         </items>
     </channel>
 </channels>
